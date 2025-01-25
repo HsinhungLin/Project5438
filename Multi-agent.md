@@ -5,3 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/da248558-1ff9-44fc-bafb-3dcd43a22a40)
 ![image](https://github.com/user-attachments/assets/d72e53ed-a511-4ea6-8ec9-47ddb824c18d)
+
+[SMOLAgent：2025年最強大的AI Agent框架？](https://most.tw/posts/ainews/smolagent-2025-ai-agent/)
+
+[2025年AI Agent大戰：SMOLAgent vs CrewAI，誰是最強框架？](https://most.tw/posts/ainews/smolagent-crewai-2025-ai-agent/)
