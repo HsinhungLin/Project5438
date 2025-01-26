@@ -9,3 +9,5 @@
 [SMOLAgent：2025年最強大的AI Agent框架？](https://most.tw/posts/ainews/smolagent-2025-ai-agent/)
 
 [2025年AI Agent大戰：SMOLAgent vs CrewAI，誰是最強框架？](https://most.tw/posts/ainews/smolagent-crewai-2025-ai-agent/)
+
+[AI Agents Take the Lead: A Look Ahead to 2025](https://medium.com/@elisowski/ai-agents-take-the-lead-a-look-ahead-to-2025-e8da8bd0a2f6)
