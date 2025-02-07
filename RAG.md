@@ -1,4 +1,6 @@
 
+[RAG-Fit](https://github.com/IntelLabs/RAG-FiT)
+
 [RAGFlow安裝教學、設定、與模型使用技巧](https://ithelp.ithome.com.tw/articles/10369119)
 
 # RAG
