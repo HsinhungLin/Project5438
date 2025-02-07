@@ -13,3 +13,5 @@
 [AI Agents Take the Lead: A Look Ahead to 2025](https://medium.com/@elisowski/ai-agents-take-the-lead-a-look-ahead-to-2025-e8da8bd0a2f6)
 
 [When to Use Functions, a Multi-Tool AI Agent, or Multiple Agents](https://cobusgreyling.medium.com/when-to-use-functions-a-multi-tool-ai-agent-or-multiple-agents-951b28feff81)
+
+[LangChain vs PydanticAI for building an AI Agent](https://medium.com/@finndersen/langchain-vs-pydanticai-for-building-an-ai-agent-e0a059435e9d)
