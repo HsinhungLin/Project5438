@@ -15,3 +15,5 @@
 [When to Use Functions, a Multi-Tool AI Agent, or Multiple Agents](https://cobusgreyling.medium.com/when-to-use-functions-a-multi-tool-ai-agent-or-multiple-agents-951b28feff81)
 
 [LangChain vs PydanticAI for building an AI Agent](https://medium.com/@finndersen/langchain-vs-pydanticai-for-building-an-ai-agent-e0a059435e9d)
+
+[The Best Pre-Built Toolkits for AI Agents](https://medium.com/@amosgyamfi/the-best-pre-built-toolkits-for-ai-agents-59652e4727fe)
