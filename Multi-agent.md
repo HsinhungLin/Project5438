@@ -17,3 +17,5 @@
 [LangChain vs PydanticAI for building an AI Agent](https://medium.com/@finndersen/langchain-vs-pydanticai-for-building-an-ai-agent-e0a059435e9d)
 
 [The Best Pre-Built Toolkits for AI Agents](https://medium.com/@amosgyamfi/the-best-pre-built-toolkits-for-ai-agents-59652e4727fe)
+
+[Creating an AI Agent That Uses a Computer Like People Do](https://levelup.gitconnected.com/creating-an-ai-agent-that-uses-a-computer-like-people-do-288f7ad97169)
