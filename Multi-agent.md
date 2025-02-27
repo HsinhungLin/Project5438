@@ -1,3 +1,5 @@
+[從手工工作流程到人工智慧代理，再到代理工作流程](https://cobusgreyling.medium.com/from-handcrafted-workflows-to-ai-agents-to-agentic-workflows-49e8f85daf7d)
+
 # Multi-agent
 [What Are AI Agents? A Short Intro And A Step-by-Step Guide to Build Your Own.](https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3)
 
